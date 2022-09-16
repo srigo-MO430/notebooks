@@ -25,3 +25,8 @@ source mo430-env/bin/activate
 pip3 install jupyter
 ````
 
+### Clonando o repositório
+
+```bash
+git clone https://github.com/srigo-MO430/notebooks.git
+````
